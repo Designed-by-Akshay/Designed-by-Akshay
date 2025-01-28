@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi! Welcome to my GitHub portfolio, Designed-by-Akshay. I have been passionate about software engineering since high school.<br>Throughout my different projects showcased here, I follow a core philosophy that software should be written such that the resultant product is both functional and pragmatic in terms of logic and feature set, as well as minimalistic, intuitive, and high-quality.<br>I believe in writing clear code and strive for the end user to experience my work as "It just works ".<br><br>I hope you find something of interest in my repository and find joy in any of my projects.<br><br>Please feel free to reach out to me on my Linkedin.<br><br>
+Hi! Welcome to my GitHub portfolio, Designed-by-Akshay. I have been passionate about software engineering since high school.<br>I follow a core philosophy that software should be written such that the resultant product is both functional and pragmatic in terms of logic and feature set, as well as minimalistic, intuitive, and high-quality.<br>I believe in writing clear code and strive for the end user to experience my work as "It just works ".<br><br>I hope you find something of interest in my repository and find joy in any of my projects.<br><br>Please feel free to reach out to me on my Linkedin.<br><br>
 
 
 ## 🌐 Socials:
